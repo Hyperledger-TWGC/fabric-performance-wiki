@@ -8,6 +8,7 @@ TWGC Fabric Performance Work Group wiki
 
 随着 Fabric 的使用已经越来越广泛，Fabric 性能问题也日益凸显，为了更好的研究和优化 Fabric 性能问题，2020年7月13日，TWGC 成立了性能优化小组以便为大家提供优化方案和参考实现。目前 TWGC 性能优化小组主要从两方面研究 Fabric 性能问题：Fabric 项目自身性能；Fabric 应用系统架构设计。
 
+性能优化[思维导图](https://www.processon.com/view/link/5f3c06ec7d9c0806d41fec86)，欢迎补充！
 
 ## 加入方式
 
