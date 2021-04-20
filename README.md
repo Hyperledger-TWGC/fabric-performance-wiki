@@ -30,7 +30,7 @@ TWGC Fabric Performance Special Interest Group wiki
 | ------ | ----------- | -------------------- | ------------- | -------- |
 | 程阳   | yycheng418  | chengyang418@163.com | Stone-ch      | 组长     |
 | 袁怿   | oe19901019  | yy19902439@126.com   | SamYuan1990   | 副组长   |
-| 许强   | xq_19880125 | xq-310@163.com       | XuHugo        | 副组长   |
+| 许强   | xq_19880125 | xu.qiang@h3c.com\xq-310@163.com       | XuHugo        | 副组长   |
 | 李明轩 | Lmx-1994    | s380932081@qq.com    | Matthewbalala | 核心成员 |
 | 赵世宏 | zshong1987  | 523713078@qq.com     | tianxuanhong  | 核心成员 |
 
