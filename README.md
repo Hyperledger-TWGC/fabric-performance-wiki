@@ -41,18 +41,8 @@ TWGC Fabric Performance Special Interest Group wiki
 
 ## 例会信息
 
-每周二晚 21:00-22:00，会议记录保存在小组资料库中。会议记录会同步在wiki中，会议录屏保存在百度云盘。
+现已和国际社区合并详见 https://wiki.hyperledger.org/display/PSWG/Meetings
 
-
+国内性能组历史会议记录
 
 百度网盘链接: https://pan.baidu.com/s/1XcVS5kY4BfxQUxybyJF_wA 提取码: h38i 
-
-
-
-腾讯会议链接：https://meeting.tencent.com/s/lfnnPoSz5JTE
-
-会议 ID：437 1864 9713
-
-
-
-所有小组成员在开始会议前可以将自己的议题更新到“资料库->会议记录->当前日期”对应的文档中，我们将预留时间在例会中进行讨论。
